@@ -1,0 +1,180 @@
+<resources>
+  <string name="app_name">ColorDemo</string>
+  <string name="system_colors_label">System Colors</string>
+  <string name="dynamic_palettes_label">Dynamic Palettes</string>
+  <string name="system_colors_description">List of system color roles.</string>
+  <string name="dynamic_palettes_description">List of system dynamic palettes.</string>
+
+  <!-- Dark -->
+  <!-- Group: Primary colors -->
+  <string name="dark_primary">system_primary_dark</string>
+  <string name="dark_on_primary">system_on_primary_dark</string>
+  <string name="dark_primary_container">system_primary_container_dark</string>
+  <string name="dark_on_primary_container">system_on_primary_container_dark</string>
+  <!-- Group: Secondary colors -->
+  <string name="dark_secondary">system_secondary_dark</string>
+  <string name="dark_on_secondary">system_on_secondary_dark</string>
+  <string name="dark_secondary_container">system_secondary_container_dark</string>
+  <string name="dark_on_secondary_container">system_on_secondary_container_dark</string>
+  <!-- Group: Tertiary colors -->
+  <string name="dark_tertiary">system_tertiary_dark</string>
+  <string name="dark_on_tertiary">system_on_tertiary_dark</string>
+  <string name="dark_tertiary_container">system_tertiary_container_dark</string>
+  <string name="dark_on_tertiary_container">system_on_tertiary_container_dark</string>
+  <!-- Group: Error colors -->
+  <string name="dark_error">system_error_dark</string>
+  <string name="dark_on_error">system_on_error_dark</string>
+  <string name="dark_error_container">system_error_container_dark</string>
+  <string name="dark_on_error_container">system_on_error_container_dark</string>
+  <!-- Group: Surface colors -->
+  <string name="dark_surface">system_surface_dark</string>
+  <string name="dark_on_surface">system_on_surface_dark</string>
+  <string name="dark_surface_variant">system_surface_variant_dark</string>
+  <string name="dark_on_surface_variant">system_on_surface_variant_dark</string>
+  <string name="dark_surface_container_highest">system_surface_container_highest_dark</string>
+  <string name="dark_surface_container_high">system_surface_container_high_dark</string>
+  <string name="dark_surface_container">system_surface_container_dark</string>
+  <string name="dark_surface_container_low">system_surface_container_low_dark</string>
+  <string name="dark_surface_container_lowest">system_surface_container_lowest_dark</string>
+  <string name="dark_inverse_surface">system_surface_light</string>
+  <string name="dark_inverse_on_surface">system_on_surface_light</string>
+  <!-- Group: Outline colors -->
+  <string name="dark_outline">system_outline_dark</string>
+  <string name="dark_outline_variant">system_outline_variant_dark</string>
+  <!-- Group: Add-ons - Add-on surface colors -->
+  <string name="dark_background">system_background_dark</string>
+  <string name="dark_on_background">system_on_background_dark</string>
+  <string name="dark_surface_bright">system_surface_bright_dark</string>
+  <string name="dark_surface_dim">system_surface_dim_dark</string>
+
+  <!-- Light -->
+  <!-- Group: Primary colors -->
+  <string name="light_primary">system_primary_light</string>
+  <string name="light_on_primary">system_on_primary_light</string>
+  <string name="light_primary_container">system_primary_container_light</string>
+  <string name="light_on_primary_container">system_on_primary_container_light</string>
+  <!-- Group: Secondary colors -->
+  <string name="light_secondary">system_secondary_light</string>
+  <string name="light_on_secondary">system_on_secondary_light</string>
+  <string name="light_secondary_container">system_secondary_container_light</string>
+  <string name="light_on_secondary_container">system_on_secondary_container_light</string>
+  <!-- Group: Tertiary colors -->
+  <string name="light_tertiary">system_tertiary_light</string>
+  <string name="light_on_tertiary">system_on_tertiary_light</string>
+  <string name="light_tertiary_container">system_tertiary_container_light</string>
+  <string name="light_on_tertiary_container">system_on_tertiary_container_light</string>
+  <!-- Group: Error colors -->
+  <string name="light_error">system_error_light</string>
+  <string name="light_on_error">system_on_error_light</string>
+  <string name="light_error_container">system_error_container_light</string>
+  <string name="light_on_error_container">system_on_error_container_light</string>
+  <!-- Group: Surface colors -->
+  <string name="light_surface">system_surface_light</string>
+  <string name="light_on_surface">system_on_surface_light</string>
+  <string name="light_surface_variant">system_surface_variant_light</string>
+  <string name="light_on_surface_variant">system_on_surface_variant_light</string>
+  <string name="light_surface_container_highest">system_surface_container_highest_light</string>
+  <string name="light_surface_container_high">system_surface_container_high_light</string>
+  <string name="light_surface_container">system_surface_container_light</string>
+  <string name="light_surface_container_low">system_surface_container_low_light</string>
+  <string name="light_surface_container_lowest">system_surface_container_lowest_light</string>
+  <string name="light_inverse_surface">system_surface_dark</string>
+  <string name="light_inverse_on_surface">system_on_surface_dark</string>
+  <!-- Group: Outline colors -->
+  <string name="light_outline">system_outline_light</string>
+  <string name="light_outline_variant">system_outline_variant_light</string>
+  <!-- Group: Add-ons - Add-on surface colors -->
+  <string name="light_background">system_background_light</string>
+  <string name="light_on_background">system_on_background_light</string>
+  <string name="light_surface_bright">system_surface_bright_light</string>
+  <string name="light_surface_dim">system_surface_dim_light</string>
+
+  <!-- Fixed -->
+  <!-- Group: Add-ons - Add-on primary colors -->
+  <string name="primary_fixed">system_primary_fixed</string>
+  <string name="on_primary_fixed">system_on_primary_fixed</string>
+  <string name="primary_fixed_dim">system_primary_fixed_dim</string>
+  <string name="on_primary_fixed_variant">system_on_primary_fixed_variant</string>
+  <!-- Group: Add-ons - Add-on secondary colors -->
+  <string name="secondary_fixed">system_secondary_fixed</string>
+  <string name="on_secondary_fixed">system_on_secondary_fixed</string>
+  <string name="on_secondary_fixed_variant">system_on_secondary_fixed_variant</string>
+  <string name="secondary_fixed_dim">system_secondary_fixed_dim</string>
+  <!-- Group: Add-ons - Add-on tertiary colors -->
+  <string name="tertiary_fixed">system_tertiary_fixed</string>
+  <string name="on_tertiary_fixed">system_on_tertiary_fixed</string>
+  <string name="on_tertiary_fixed_variant">system_on_tertiary_fixed_variant</string>
+  <string name="tertiary_fixed_dim">system_tertiary_fixed_dim</string>
+  
+  <!-- Palettes -->
+  
+  <string name="accent1_1000">system_accent1_1000</string>
+  <string name="accent1_900">system_accent1_900</string>
+  <string name="accent1_800">system_accent1_800</string>
+  <string name="accent1_700">system_accent1_700</string>
+  <string name="accent1_600">system_accent1_600</string>
+  <string name="accent1_500">system_accent1_500</string>
+  <string name="accent1_400">system_accent1_400</string>
+  <string name="accent1_300">system_accent1_300</string>
+  <string name="accent1_200">system_accent1_200</string>
+  <string name="accent1_100">system_accent1_100</string>
+  <string name="accent1_50">system_accent1_50</string>
+  <string name="accent1_10">system_accent1_10</string>
+  <string name="accent1_0">system_accent1_0</string>
+
+  <string name="accent2_1000">system_accent2_1000</string>
+  <string name="accent2_900">system_accent2_900</string>
+  <string name="accent2_800">system_accent2_800</string>
+  <string name="accent2_700">system_accent2_700</string>
+  <string name="accent2_600">system_accent2_600</string>
+  <string name="accent2_500">system_accent2_500</string>
+  <string name="accent2_400">system_accent2_400</string>
+  <string name="accent2_300">system_accent2_300</string>
+  <string name="accent2_200">system_accent2_200</string>
+  <string name="accent2_100">system_accent2_100</string>
+  <string name="accent2_50">system_accent2_50</string>
+  <string name="accent2_10">system_accent2_10</string>
+  <string name="accent2_0">system_accent2_0</string>
+
+  <string name="accent3_1000">system_accent3_1000</string>
+  <string name="accent3_900">system_accent3_900</string>
+  <string name="accent3_800">system_accent3_800</string>
+  <string name="accent3_700">system_accent3_700</string>
+  <string name="accent3_600">system_accent3_600</string>
+  <string name="accent3_500">system_accent3_500</string>
+  <string name="accent3_400">system_accent3_400</string>
+  <string name="accent3_300">system_accent3_300</string>
+  <string name="accent3_200">system_accent3_200</string>
+  <string name="accent3_100">system_accent3_100</string>
+  <string name="accent3_50">system_accent3_50</string>
+  <string name="accent3_10">system_accent3_10</string>
+  <string name="accent3_0">system_accent3_0</string>
+
+  <string name="neutral1_1000">system_neutral1_1000</string>
+  <string name="neutral1_900">system_neutral1_900</string>
+  <string name="neutral1_800">system_neutral1_800</string>
+  <string name="neutral1_700">system_neutral1_700</string>
+  <string name="neutral1_600">system_neutral1_600</string>
+  <string name="neutral1_500">system_neutral1_500</string>
+  <string name="neutral1_400">system_neutral1_400</string>
+  <string name="neutral1_300">system_neutral1_300</string>
+  <string name="neutral1_200">system_neutral1_200</string>
+  <string name="neutral1_100">system_neutral1_100</string>
+  <string name="neutral1_50">system_neutral1_50</string>
+  <string name="neutral1_10">system_neutral1_10</string>
+  <string name="neutral1_0">system_neutral1_0</string>
+
+  <string name="neutral2_1000">system_neutral2_1000</string>
+  <string name="neutral2_900">system_neutral2_900</string>
+  <string name="neutral2_800">system_neutral2_800</string>
+  <string name="neutral2_700">system_neutral2_700</string>
+  <string name="neutral2_600">system_neutral2_600</string>
+  <string name="neutral2_500">system_neutral2_500</string>
+  <string name="neutral2_400">system_neutral2_400</string>
+  <string name="neutral2_300">system_neutral2_300</string>
+  <string name="neutral2_200">system_neutral2_200</string>
+  <string name="neutral2_100">system_neutral2_100</string>
+  <string name="neutral2_50">system_neutral2_50</string>
+  <string name="neutral2_10">system_neutral2_10</string>
+  <string name="neutral2_0">system_neutral2_0</string>
+</resources>
